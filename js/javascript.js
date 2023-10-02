@@ -1,1 +1,3 @@
-alert("Belajar penulisan javascript");
+function tampil() {
+    alert("Belajar penulisan javascript");
+}
